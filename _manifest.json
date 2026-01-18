@@ -1,0 +1,18 @@
+{
+  "manifest_version": 1,
+  "name": "QQ自动群打卡插件",
+  "version": "1.0.10",
+  "description": "自动调用napcat接口获取群列表，实现批量群打卡，无命令触发，配置生效",
+  "author": {
+    "name": "miantaoo",
+     "url": "https://github.com/miantaoo"
+  },
+  "license": "GPL-3.0",
+  "host_application": {
+    "min_version": "1.10.0"
+  },
+  "homepage_url": "https://github.com/miantaoo/checkin_plugin",
+  "repository_url": "https://github.com/miantaoo/checkin_plugin",
+  "keywords": ["签到", "自动签到", "checkin", "自动化"],
+  "categories": ["Utility Tools","External Integration"]
+}
