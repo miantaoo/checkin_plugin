@@ -12,7 +12,7 @@
 |当前版本|1.0.10|
 |开源许可证|GPL-3.0（GNU General Public License v3.0）|
 |代码仓库地址|[https://github.com/miantaoo/checkin_plugin](https://github.com/miantaoo/checkin_plugin)|
-|兼容框架|MaiCore（最低兼容版本：1.10.0）|
+|兼容框架|MaiCore（最低兼容版本：0.10.0）|
 ## 三、核心特性
 
 1. **自动配置生成**：插件首次启动时，自动在插件目录生成 `config.toml` 配置文件，无需手动创建。
